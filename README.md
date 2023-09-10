@@ -1,3 +1,13 @@
+
+使用 safari-web-extension-converter 将原项目转换为 Safari 浏览器支持的插件。
+
+文档链接：https://developer.apple.com/documentation/safariservices/safari_web_extensions/converting_a_web_extension_for_safari/
+
+最新版本：4.3.2
+
+感谢原作者的辛勤付出。
+
+------------------------------------------------------------以下来自原作者--------------------------------------------------------------
 <h1 align="center"><img src="./icon/32x32.png" height="21px" alt=""> CCFrank</h1>
 <p align="center">
     <a href="https://github.com/WenyanLiu/CCFrank4dblp">
